@@ -1,0 +1,12 @@
+/Library/
+/Temp/
+/Build/ 
+
+# Visual Studio Cache
+/.vs/
+*.csproj
+*.sln
+*.unityproj
+*.obj
+*.tmp
+*.user
